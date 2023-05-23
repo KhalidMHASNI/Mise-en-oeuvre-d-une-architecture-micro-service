@@ -18,20 +18,52 @@
 
 ![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/aa7a26ea-9479-43bc-9e5b-2b60e84cdc4e)
 ![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/ac1c1b7f-c3a9-4edf-bfa3-ef2cec932e7c)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/1c6318c7-195f-44e2-967f-9ae97635b5c0)
 
-3. Créer le micro service Inventory-service 
-      • Créer l’entité Product 
-      • Créer l’interface ProductRepository basée sur Spring Data 
-      • Déployer l’API Restful du micro-service en utilisant Spring Data Rest 
-      • Tester le Micro service
+2. Créer le micro service Inventory-service 
+• Créer l’entité Product 
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/70154679-1f50-4086-93fa-26d2e5dd12a2)
+
+• Créer l’interface ProductRepository basée sur Spring Data 
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/8be1578c-e908-463c-9669-8a04e8409053)
+
+• Déployer l’API Restful du micro-service en utilisant Spring Data Rest 
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/1bb86559-642b-4ce2-8c6c-f65bf353208e)
+
+• Tester le Micro service
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/59fb2d66-367e-40f6-a136-1728998a6d76)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/eb9ab3ad-0712-467a-946b-464010f777d2)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/ec9ce931-20ca-4256-8ab8-ee8f5e7d3c95)
+
 3. Créer la Gateway service en utilisant Spring Cloud Gateway
-  1. Tester la Service proxy en utilisant une configuration Statique basée
-  sur le fichier application.yml
-  2. Tester la Service proxy en utilisant une configuration Statique basée
-  une configuration Java
+1. Tester la Service proxy en utilisant une configuration Statique basée sur le fichier application.yml
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/2ed3da7c-f3d5-4b17-b5db-35d26070196a)
+
+2. Tester la Service proxy en utilisant une configuration Statique basée une configuration Java
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/7323f38d-6b56-46cf-abed-658ec6ff09f6)
+
+Les deux méthodes affichent le résultat suivant :
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/da280f65-2f14-433d-9c58-6cf353dc6aba)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/3cb0fd48-3b4b-4c00-a6db-afe21563edd6)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/d15168c2-0d47-4f97-b6dd-7bc8475485fb)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/b6335b1b-6af2-45f4-b920-0cc99367ea9f)
+
 4. Créer l’annuaire Registry Service basé sur NetFlix Eureka Server
-5. Tester le proxy en utilisant une configuration dynamique de Gestion des
-routes vers les micro services enregistrés dans l’annuaire Eureka Server
-6. Créer Le service Billing-Service en utilisant Open Feign pour
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/c04cbbd8-a26f-4254-ac22-e3438ff0c3ea)
+
+
+5. Tester le proxy en utilisant une configuration dynamique de Gestion des routes vers les micro services enregistrés dans l’annuaire Eureka Server
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/8c826af5-9804-47e5-8ff5-062015948747)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/8db2998f-f5bb-4aca-94f1-44f4dcf6fbc9)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/790e63e9-61e1-49b4-b791-a8584bcee9c5)
+
+
+8. Créer Le service Billing-Service en utilisant Open Feign pour
 communiquer avec les services Customer-service et Inventory-service
 7. Créer un client Angular qui permet d’afficher une facture

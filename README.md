@@ -64,6 +64,14 @@ Les deux méthodes affichent le résultat suivant :
 ![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/790e63e9-61e1-49b4-b791-a8584bcee9c5)
 
 
-8. Créer Le service Billing-Service en utilisant Open Feign pour
-communiquer avec les services Customer-service et Inventory-service
+6. Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/1330edd1-6217-4fe4-b580-bdc8e67b0ba0)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/c686bfd6-386e-4c33-8e84-b63c34a5fd38)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/488c7dbf-1b2e-468a-a85c-ef878d4b6840)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/b33587e3-fb8a-4131-a6bc-67b225e61d7d)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/463f1f0a-8024-48b0-b113-7b76eaca1817)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/9558c203-39c4-4f5f-9feb-4e94c3b8b9dc)
+
+
 7. Créer un client Angular qui permet d’afficher une facture

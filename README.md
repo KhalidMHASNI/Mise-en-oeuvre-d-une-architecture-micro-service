@@ -75,3 +75,8 @@ Les deux méthodes affichent le résultat suivant :
 
 
 7. Créer un client Angular qui permet d’afficher une facture
+
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/81462361-1dee-403c-b481-60b58d6f33e5)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/397b2b84-c928-407b-a729-5c83a180a55c)
+![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/4ff5f41b-fac5-4269-9c18-65a966bae298)
+

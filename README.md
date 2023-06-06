@@ -40,7 +40,7 @@
 ![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/ec9ce931-20ca-4256-8ab8-ee8f5e7d3c95)
 
 3. Créer la Gateway service en utilisant Spring Cloud Gateway
-1. Tester la Service proxy en utilisant une configuration Statique basée sur le fichier application.yml
+  1. Tester la Service proxy en utilisant une configuration Statique basée sur le fichier application.yml
 
 ![image](https://github.com/KhalidMHASNI/Mise-en-oeuvre-d-une-architecture-micro-service/assets/82038554/2ed3da7c-f3d5-4b17-b5db-35d26070196a)
 
